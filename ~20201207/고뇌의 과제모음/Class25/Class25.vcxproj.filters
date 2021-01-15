@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Terran">
+      <UniqueIdentifier>{b949c5d9-9aed-4d91-8faf-afb76e1d9e40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Zerg">
+      <UniqueIdentifier>{3b028025-50df-4710-9e60-d0d5e35901d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Protoss">
+      <UniqueIdentifier>{eee7f4ca-bd7b-41b1-bb15-19448cc52be2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Terran\Building">
+      <UniqueIdentifier>{7b02591c-ae74-4440-99a5-a18ac65c2b14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Terran\Units">
+      <UniqueIdentifier>{762224e0-927e-4dc4-8c0c-aa233ad63700}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MainConsole.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Zerg.cpp">
+      <Filter>소스 파일\Zerg</Filter>
+    </ClCompile>
+    <ClCompile Include="Terran.cpp">
+      <Filter>소스 파일\Terran</Filter>
+    </ClCompile>
+    <ClCompile Include="Protoss.cpp">
+      <Filter>소스 파일\Protoss</Filter>
+    </ClCompile>
+    <ClCompile Include="Zergling.cpp">
+      <Filter>소스 파일\Zerg</Filter>
+    </ClCompile>
+    <ClCompile Include="Queen.cpp">
+      <Filter>소스 파일\Zerg</Filter>
+    </ClCompile>
+    <ClCompile Include="HighTemplar.cpp">
+      <Filter>소스 파일\Protoss</Filter>
+    </ClCompile>
+    <ClCompile Include="DarkArchon.cpp">
+      <Filter>소스 파일\Protoss</Filter>
+    </ClCompile>
+    <ClCompile Include="Reaver.cpp">
+      <Filter>소스 파일\Protoss</Filter>
+    </ClCompile>
+    <ClCompile Include="TerranBuilding.cpp">
+      <Filter>소스 파일\Terran</Filter>
+    </ClCompile>
+    <ClCompile Include="TerranUnit.cpp">
+      <Filter>소스 파일\Terran</Filter>
+    </ClCompile>
+    <ClCompile Include="CommandCenter.cpp">
+      <Filter>소스 파일\Terran\Building</Filter>
+    </ClCompile>
+    <ClCompile Include="Wraith.cpp">
+      <Filter>소스 파일\Terran\Units</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Zerg.h">
+      <Filter>소스 파일\Zerg</Filter>
+    </ClInclude>
+    <ClInclude Include="Terran.h">
+      <Filter>소스 파일\Terran</Filter>
+    </ClInclude>
+    <ClInclude Include="Protoss.h">
+      <Filter>소스 파일\Protoss</Filter>
+    </ClInclude>
+    <ClInclude Include="Zergling.h">
+      <Filter>소스 파일\Zerg</Filter>
+    </ClInclude>
+    <ClInclude Include="Queen.h">
+      <Filter>소스 파일\Zerg</Filter>
+    </ClInclude>
+    <ClInclude Include="HighTemplar.h">
+      <Filter>소스 파일\Protoss</Filter>
+    </ClInclude>
+    <ClInclude Include="DarkArchon.h">
+      <Filter>소스 파일\Protoss</Filter>
+    </ClInclude>
+    <ClInclude Include="Reaver.h">
+      <Filter>소스 파일\Protoss</Filter>
+    </ClInclude>
+    <ClInclude Include="TerranUnit.h">
+      <Filter>소스 파일\Terran</Filter>
+    </ClInclude>
+    <ClInclude Include="TerranBuilding.h">
+      <Filter>소스 파일\Terran</Filter>
+    </ClInclude>
+    <ClInclude Include="CommandCenter.h">
+      <Filter>소스 파일\Terran\Building</Filter>
+    </ClInclude>
+    <ClInclude Include="Wraith.h">
+      <Filter>소스 파일\Terran\Units</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

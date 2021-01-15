@@ -1,0 +1,26 @@
+﻿  cameraManager.cpp
+c:\users\ha family\desktop\study\하융호\20201207(2) camera\cameramanager.cpp(14): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ha family\desktop\study\하융호\20201207(2) camera\cameramanager.cpp(40): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ha family\desktop\study\하융호\20201207(2) camera\cameramanager.cpp(47): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ha family\desktop\study\하융호\20201207(2) camera\cameramanager.cpp(53): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ha family\desktop\study\하융호\20201207(2) camera\cameramanager.cpp(82): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ha family\desktop\study\하융호\20201207(2) camera\cameramanager.cpp(83): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ha family\desktop\study\하융호\20201207(2) camera\cameramanager.cpp(84): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ha family\desktop\study\하융호\20201207(2) camera\cameramanager.cpp(85): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ha family\desktop\study\하융호\20201207(2) camera\cameramanager.cpp(92): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ha family\desktop\study\하융호\20201207(2) camera\cameramanager.cpp(93): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ha family\desktop\study\하융호\20201207(2) camera\cameramanager.cpp(94): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ha family\desktop\study\하융호\20201207(2) camera\cameramanager.cpp(95): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ha family\desktop\study\하융호\20201207(2) camera\cameramanager.cpp(96): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ha family\desktop\study\하융호\20201207(2) camera\cameramanager.cpp(112): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ha family\desktop\study\하융호\20201207(2) camera\cameramanager.cpp(111): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ha family\desktop\study\하융호\20201207(2) camera\cameramanager.cpp(110): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ha family\desktop\study\하융호\20201207(2) camera\cameramanager.cpp(109): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ha family\desktop\study\하융호\20201207(2) camera\cameramanager.cpp(122): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ha family\desktop\study\하융호\20201207(2) camera\cameramanager.cpp(121): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ha family\desktop\study\하융호\20201207(2) camera\cameramanager.cpp(120): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ha family\desktop\study\하융호\20201207(2) camera\cameramanager.cpp(119): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ha family\desktop\study\하융호\20201207(2) camera\cameramanager.cpp(132): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ha family\desktop\study\하융호\20201207(2) camera\cameramanager.cpp(134): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ha family\desktop\study\하융호\20201207(2) camera\cameramanager.cpp(124): warning C4715: 'cameraManager::minimapObject': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  windowAPI.vcxproj -> C:\Users\HA Family\Desktop\study\하융호\20201207(2) Camera\x64\Debug\windowAPI.exe
